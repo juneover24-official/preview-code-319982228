@@ -1,7 +1,7 @@
 {
   "qq_number": "319982228",
   "group_number": "1090437588",
-  "updated_at": "2026-09-18T05:40:31+00:00",
+  "updated_at": "2026-09-18T05:41:06+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -23,6 +23,13 @@
       "thumb": "游核梦-原po病涩-融.bdi_py_26_light_thumb.png",
       "full": "游核梦-原po病涩-融.bdi_py_26_light_thumb.png",
       "file_id": "827bf554668349d45cfdb6161f186fb8"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "游核梦-原po病涩-彩.bdi",
+      "thumb": "游核梦-原po病涩-彩.bdi_py_26_light_thumb.png",
+      "full": "游核梦-原po病涩-彩.bdi_py_26_light_thumb.png",
+      "file_id": "e2a69d6ee8f0b6045f2e445526c2c80d"
     }
   ]
 }
