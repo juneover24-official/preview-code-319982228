@@ -1,7 +1,7 @@
 {
   "qq_number": "319982228",
   "group_number": "1022436327",
-  "updated_at": "2026-09-18T04:21:28+00:00",
+  "updated_at": "2026-09-18T05:24:22+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -23,6 +23,13 @@
       "thumb": "薄巧小猫-原po病涩-融脆脆.bdi_py_26_light_thumb.png",
       "full": "薄巧小猫-原po病涩-融脆脆.bdi_py_26_light_thumb.png",
       "file_id": "8a78f507ed087e2b43530f024d96d126"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "薄巧小猫-原po病涩-彩闷闷.bds",
+      "thumb": "薄巧小猫-原po病涩-彩闷闷.bds_py_26_light_thumb.png",
+      "full": "薄巧小猫-原po病涩-彩闷闷.bds_py_26_light_thumb.png",
+      "file_id": "be619ca7e55febbc4f2a909b5caf3862"
     }
   ]
 }
