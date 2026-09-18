@@ -1,7 +1,7 @@
 {
   "qq_number": "319982228",
   "group_number": "1103827481",
-  "updated_at": "2026-09-18T08:05:09+00:00",
+  "updated_at": "2026-09-18T08:07:06+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -9,6 +9,13 @@
       "thumb": "灰刺餶-原po病涩-脆脆无光晕.bdi_py_26_light_thumb.png",
       "full": "灰刺餶-原po病涩-脆脆无光晕.bdi_py_26_light_thumb.png",
       "file_id": "904fd3c00b1761b9469f1ef2abb939b0"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "灰刺餶-原po病涩-脆脆有光晕.bdi",
+      "thumb": "灰刺餶-原po病涩-脆脆有光晕.bdi_py_26_light_thumb.png",
+      "full": "灰刺餶-原po病涩-脆脆有光晕.bdi_py_26_light_thumb.png",
+      "file_id": "17debf795bac8cb1797bdd98becbb65b"
     }
   ]
 }
