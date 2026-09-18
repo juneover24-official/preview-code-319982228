@@ -1,7 +1,7 @@
 {
   "qq_number": "319982228",
   "group_number": "757723540",
-  "updated_at": "2026-09-18T11:23:39+00:00",
+  "updated_at": "2026-09-18T11:27:16+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -93,6 +93,13 @@
       "thumb": "止于隐痛-原po病涩-日版闷闷.bdi_py_26_light_thumb.png",
       "full": "止于隐痛-原po病涩-日版闷闷.bdi_py_26_light_thumb.png",
       "file_id": "c2b3cfeb974ffa270b54744640eadaf7"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "萌偶天使心-原po病涩-1有漂浮.bdi",
+      "thumb": "萌偶天使心-原po病涩-1有漂浮.bdi_py_26_light_thumb.png",
+      "full": "萌偶天使心-原po病涩-1有漂浮.bdi_py_26_light_thumb.png",
+      "file_id": "52e4167251f6fe40e2ca874729fc0dd8"
     }
   ]
 }
