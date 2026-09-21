@@ -1,7 +1,7 @@
 {
   "qq_number": "319982228",
   "group_number": "757723540",
-  "updated_at": "2026-09-21T04:47:20+00:00",
+  "updated_at": "2026-09-21T04:47:38+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -121,6 +121,13 @@
       "thumb": "猫女喵喵-原po病涩-融脆脆.bds_py_26_light_thumb.png",
       "full": "猫女喵喵-原po病涩-融脆脆.bds_py_26_light_thumb.png",
       "file_id": "1d64ada6402d59900360fa1cfcac366b"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "猫女喵喵-原po病涩-融闷闷.bds",
+      "thumb": "猫女喵喵-原po病涩-融闷闷.bds_py_26_light_thumb.png",
+      "full": "猫女喵喵-原po病涩-融闷闷.bds_py_26_light_thumb.png",
+      "file_id": "ffcdfaaa958eeb65a8395df66575dc76"
     }
   ]
 }
