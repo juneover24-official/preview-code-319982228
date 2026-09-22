@@ -1,7 +1,7 @@
 {
   "qq_number": "319982228",
   "group_number": "222673838",
-  "updated_at": "2026-09-22T02:53:40+00:00",
+  "updated_at": "2026-09-22T02:54:02+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -58,6 +58,13 @@
       "thumb": "真赐彩底闷闷原po刀刀.bdi_py_26_light_thumb.png",
       "full": "真赐彩底闷闷原po刀刀.bdi_py_26_light_thumb.png",
       "file_id": "cd3a0d5e75080b5b95eeab3ab314d38f"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "真赐彩底脆脆原po刀刀.bdi",
+      "thumb": "真赐彩底脆脆原po刀刀.bdi_py_26_light_thumb.png",
+      "full": "真赐彩底脆脆原po刀刀.bdi_py_26_light_thumb.png",
+      "file_id": "8f564b1f0425058becbb295685386d06"
     }
   ]
 }
