@@ -1,7 +1,7 @@
 {
   "qq_number": "319982228",
   "group_number": "222673838",
-  "updated_at": "2026-09-24T10:11:41+00:00",
+  "updated_at": "2026-09-24T10:13:53+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -128,6 +128,13 @@
       "thumb": "宿命泪点-原po病涩-无背景闷闷.bds_py_26_light_thumb.png",
       "full": "宿命泪点-原po病涩-无背景闷闷.bds_py_26_light_thumb.png",
       "file_id": "f709bccd5ced13af02bae243c79bdec5"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "電子淚-原po病涩-无背景.bdi",
+      "thumb": "電子淚-原po病涩-无背景.bdi_py_26_light_thumb.png",
+      "full": "電子淚-原po病涩-无背景.bdi_py_26_light_thumb.png",
+      "file_id": "99ed78f47c0469d3c97dbc0a171a68d1"
     }
   ]
 }
