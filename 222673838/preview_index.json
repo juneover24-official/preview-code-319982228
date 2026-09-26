@@ -1,7 +1,7 @@
 {
   "qq_number": "319982228",
   "group_number": "222673838",
-  "updated_at": "2026-09-26T04:02:49+00:00",
+  "updated_at": "2026-09-26T04:03:30+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -163,6 +163,13 @@
       "thumb": "甜派莓莓-原po病涩-彩闷闷.bds_py_26_light_thumb.png",
       "full": "甜派莓莓-原po病涩-彩闷闷.bds_py_26_light_thumb.png",
       "file_id": "07c0cdf8ed41396f8a48cc297d368982"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "甜派莓莓-原po病涩-彩脆脆.bds",
+      "thumb": "甜派莓莓-原po病涩-彩脆脆.bds_py_26_light_thumb.png",
+      "full": "甜派莓莓-原po病涩-彩脆脆.bds_py_26_light_thumb.png",
+      "file_id": "43a7415350199f796ace09410e7fead7"
     }
   ]
 }
