@@ -1,7 +1,7 @@
 {
   "qq_number": "319982228",
   "group_number": "904878533",
-  "updated_at": "2026-09-27T17:59:27+00:00",
+  "updated_at": "2026-09-27T17:59:51+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -58,6 +58,13 @@
       "thumb": "心动物语-原po病涩-融二.bdi_py_26_light_thumb.png",
       "full": "心动物语-原po病涩-融二.bdi_py_26_light_thumb.png",
       "file_id": "2ef147930f4f4214c1f1dac851481c35"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "心动物语-原po病涩-无顶栏二.bdi",
+      "thumb": "心动物语-原po病涩-无顶栏二.bdi_py_26_light_thumb.png",
+      "full": "心动物语-原po病涩-无顶栏二.bdi_py_26_light_thumb.png",
+      "file_id": "785611420568ce96dbc37506cede91f5"
     }
   ]
 }
