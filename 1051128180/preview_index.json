@@ -1,7 +1,7 @@
 {
   "qq_number": "319982228",
   "group_number": "1051128180",
-  "updated_at": "2026-09-27T17:50:57+00:00",
+  "updated_at": "2026-09-27T17:51:24+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -30,6 +30,13 @@
       "thumb": "宅萌软心-原po病涩-融脆脆.bdi_py_26_light_thumb.png",
       "full": "宅萌软心-原po病涩-融脆脆.bdi_py_26_light_thumb.png",
       "file_id": "1e8c6eff80468875bf5c2170e73f4b0c"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "宅萌软心-原po病涩-彩闷闷.bdi",
+      "thumb": "宅萌软心-原po病涩-彩闷闷.bdi_py_26_light_thumb.png",
+      "full": "宅萌软心-原po病涩-彩闷闷.bdi_py_26_light_thumb.png",
+      "file_id": "6d52e07cc54375cbcd6775840179dc95"
     }
   ]
 }
