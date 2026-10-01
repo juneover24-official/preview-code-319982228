@@ -1,7 +1,7 @@
 {
   "qq_number": "319982228",
   "group_number": "1082893406",
-  "updated_at": "2026-10-01T11:10:56+00:00",
+  "updated_at": "2026-10-01T12:00:01+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -23,6 +23,13 @@
       "thumb": "吉伊美食记-原po病涩-融闷.bdi_py_26_light_thumb.png",
       "full": "吉伊美食记-原po病涩-融闷.bdi_py_26_light_thumb.png",
       "file_id": "8b075dd6a396bffeb81ac051e082d209"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "吉伊美食记-原po病涩-融脆.bdi",
+      "thumb": "吉伊美食记-原po病涩-融脆.bdi_py_26_light_thumb.png",
+      "full": "吉伊美食记-原po病涩-融脆.bdi_py_26_light_thumb.png",
+      "file_id": "5511b3535e770842a1d096d7e5e4143a"
     }
   ]
 }
