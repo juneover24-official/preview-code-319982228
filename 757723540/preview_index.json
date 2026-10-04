@@ -1,7 +1,7 @@
 {
   "qq_number": "319982228",
   "group_number": "757723540",
-  "updated_at": "2026-10-04T04:55:02+00:00",
+  "updated_at": "2026-10-04T04:56:01+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -240,6 +240,13 @@
       "thumb": "失帧唱片-原po病涩-彩.bdi_py_26_light_thumb.png",
       "full": "失帧唱片-原po病涩-彩.bdi_py_26_light_thumb.png",
       "file_id": "8d306510cc5e94867324ff1296c35a72"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "失帧唱片-原po病涩-融.bdi",
+      "thumb": "失帧唱片-原po病涩-融.bdi_py_26_light_thumb.png",
+      "full": "失帧唱片-原po病涩-融.bdi_py_26_light_thumb.png",
+      "file_id": "baafa521d80d235016abd6c4b329253f"
     }
   ]
 }
