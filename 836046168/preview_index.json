@@ -1,6 +1,7 @@
 {
   "qq_number": "319982228",
   "group_number": "836046168",
+  "updated_at": "2026-10-07T09:39:06+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -8,7 +9,13 @@
       "thumb": "轻松熊休闲日-原po病涩-彩.bds_py_26_light_thumb.png",
       "full": "轻松熊休闲日-原po病涩-彩.bds_py_26_light_thumb.png",
       "file_id": "f25b0ecea829fc619634a0fe9bf95b7c"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "轻松熊休闲日-原po病涩-彩.bdi",
+      "thumb": "轻松熊休闲日-原po病涩-彩.bdi_py_26_light_thumb.png",
+      "full": "轻松熊休闲日-原po病涩-彩.bdi_py_26_light_thumb.png",
+      "file_id": "57e84e66e0901a3e03e3c25b83f61838"
     }
-  ],
-  "updated_at": "2026-10-06T06:26:45+00:00"
+  ]
 }
