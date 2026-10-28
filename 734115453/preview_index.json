@@ -1,7 +1,7 @@
 {
   "qq_number": "319982228",
   "group_number": "734115453",
-  "updated_at": "2026-10-06T06:58:53+00:00",
+  "updated_at": "2026-10-28T11:17:42+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -93,6 +93,13 @@
       "thumb": "绯哀-原po病涩-融.bds_py_26_light_thumb.png",
       "full": "绯哀-原po病涩-融.bds_py_26_light_thumb.png",
       "file_id": "de3a16ce1f1448c284b1b1670033398c"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "枯桠-原po病涩-无背景.bdi",
+      "thumb": "枯桠-原po病涩-无背景.bdi_py_26_light_thumb.png",
+      "full": "枯桠-原po病涩-无背景.bdi_py_26_light_thumb.png",
+      "file_id": "c5d888415bd2ab4f930e24ecb9d296c0"
     }
   ]
 }
