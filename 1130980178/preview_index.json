@@ -1,6 +1,7 @@
 {
   "qq_number": "319982228",
   "group_number": "1130980178",
+  "updated_at": "2026-10-31T11:41:31+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -8,7 +9,13 @@
       "thumb": "水色療愈-原po病涩-彩脆.bds_py_26_light_thumb.png",
       "full": "水色療愈-原po病涩-彩脆.bds_py_26_light_thumb.png",
       "file_id": "d2b0fe058c0b7d210536001f9761caa3"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "水色療愈-原po病涩-融脆.bds",
+      "thumb": "水色療愈-原po病涩-融脆.bds_py_26_light_thumb.png",
+      "full": "水色療愈-原po病涩-融脆.bds_py_26_light_thumb.png",
+      "file_id": "bc6957561ae383044a79867a760e81a8"
     }
-  ],
-  "updated_at": "2026-10-31T09:05:48+00:00"
+  ]
 }
