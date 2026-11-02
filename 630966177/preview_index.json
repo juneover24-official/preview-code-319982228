@@ -1,7 +1,7 @@
 {
   "qq_number": "319982228",
   "group_number": "630966177",
-  "updated_at": "2026-11-02T16:23:48+00:00",
+  "updated_at": "2026-11-02T17:00:46+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -65,6 +65,13 @@
       "thumb": "喵语用户端-原po病涩-彩闷.bdi_py_26_light_thumb.png",
       "full": "喵语用户端-原po病涩-彩闷.bdi_py_26_light_thumb.png",
       "file_id": "b30607354b2c19bafe5801a52b6461e8"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "喵语用户端-原po病涩-融脆.bdi",
+      "thumb": "喵语用户端-原po病涩-融脆.bdi_py_26_light_thumb.png",
+      "full": "喵语用户端-原po病涩-融脆.bdi_py_26_light_thumb.png",
+      "file_id": "6fc8b38216c45e7495c7c1db4c17d7ef"
     }
   ]
 }
