@@ -1,7 +1,7 @@
 {
   "qq_number": "319982228",
   "group_number": "1092656397",
-  "updated_at": "2026-11-05T11:19:45+00:00",
+  "updated_at": "2026-11-05T11:24:30+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -23,6 +23,13 @@
       "thumb": "欺诈理疗院-彩闷.bdi_py_26_light_thumb.png",
       "full": "欺诈理疗院-彩闷.bdi_py_26_light_thumb.png",
       "file_id": "8356851529dc65860cdf8b241fad64d4"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "欺诈理疗院-融脆.bds",
+      "thumb": "欺诈理疗院-融脆.bds_py_26_light_thumb.png",
+      "full": "欺诈理疗院-融脆.bds_py_26_light_thumb.png",
+      "file_id": "2cedea5184a3c367e4a085da3de7c8af"
     }
   ]
 }
