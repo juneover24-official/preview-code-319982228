@@ -1,7 +1,7 @@
 {
   "qq_number": "319982228",
   "group_number": "1124990225",
-  "updated_at": "2026-11-11T08:28:34+00:00",
+  "updated_at": "2026-11-11T08:39:38+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -9,6 +9,13 @@
       "thumb": "吸血鬼骑士-彩闷脆.bdi_py_26_light_thumb.png",
       "full": "吸血鬼骑士-彩闷脆.bdi_py_26_light_thumb.png",
       "file_id": "74faa5097e84f0481e03267449726f96"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "吸血鬼骑士-融闷脆.bdi",
+      "thumb": "吸血鬼骑士-融闷脆.bdi_py_26_light_thumb.png",
+      "full": "吸血鬼骑士-融闷脆.bdi_py_26_light_thumb.png",
+      "file_id": "e018005e78a2889e8f46611aa61b88dd"
     }
   ]
 }
