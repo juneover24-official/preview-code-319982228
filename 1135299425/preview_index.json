@@ -1,7 +1,7 @@
 {
   "qq_number": "319982228",
   "group_number": "1135299425",
-  "updated_at": "2026-11-09T16:01:48+00:00",
+  "updated_at": "2026-11-11T10:51:21+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -30,6 +30,13 @@
       "thumb": "爱丽丝稚纯乐园-融脆.bdi_py_26_light_thumb.png",
       "full": "爱丽丝稚纯乐园-融脆.bdi_py_26_light_thumb.png",
       "file_id": "de8d476053eff4eec3d46139dc5b5f76"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "爱丽丝稚纯乐园-融闷脆.bdi",
+      "thumb": "爱丽丝稚纯乐园-融闷脆.bdi_py_26_light_thumb.png",
+      "full": "爱丽丝稚纯乐园-融闷脆.bdi_py_26_light_thumb.png",
+      "file_id": "49d1ab392aca1b8bb67330e8a422f423"
     }
   ]
 }
