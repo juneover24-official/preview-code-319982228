@@ -1,7 +1,7 @@
 {
   "qq_number": "319982228",
   "group_number": "452648609",
-  "updated_at": "2026-11-18T13:39:15+00:00",
+  "updated_at": "2026-11-18T14:00:26+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -44,6 +44,13 @@
       "thumb": "404_NeonGhost-彩闷.bdi_py_26_light_thumb.png",
       "full": "404_NeonGhost-彩闷.bdi_py_26_light_thumb.png",
       "file_id": "4fa85001d722c043ba93f59ba29111ae"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "404_NeonGhost-融闷.bds",
+      "thumb": "404_NeonGhost-融闷.bds_py_26_light_thumb.png",
+      "full": "404_NeonGhost-融闷.bds_py_26_light_thumb.png",
+      "file_id": "cbf8829017d1805ac0f149db3c939e81"
     }
   ]
 }
