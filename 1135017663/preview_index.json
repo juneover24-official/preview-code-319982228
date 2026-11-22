@@ -1,6 +1,7 @@
 {
   "qq_number": "319982228",
   "group_number": "1135017663",
+  "updated_at": "2026-11-22T10:43:01+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -8,7 +9,13 @@
       "thumb": "天使梦境-融脆.bdi_py_26_light_thumb.png",
       "full": "天使梦境-融脆.bdi_py_26_light_thumb.png",
       "file_id": "67e340abab449a64ee01919153537506"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "天使梦境-融闷.bdi",
+      "thumb": "天使梦境-融闷.bdi_py_26_light_thumb.png",
+      "full": "天使梦境-融闷.bdi_py_26_light_thumb.png",
+      "file_id": "c8cd13086c2dff01aabd8bf70d56b3e9"
     }
-  ],
-  "updated_at": "2026-11-22T10:42:07+00:00"
+  ]
 }
